@@ -1,0 +1,7 @@
+C:\repos\poc-authandauth\src\poc.tradingtools.api\obj\Release\net5.0\poc.tradingtools.api.csproj.AssemblyReference.cache
+C:\repos\poc-authandauth\src\poc.tradingtools.api\obj\Release\net5.0\poc.tradingtools.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\poc-authandauth\src\poc.tradingtools.api\obj\Release\net5.0\poc.tradingtools.api.AssemblyInfoInputs.cache
+C:\repos\poc-authandauth\src\poc.tradingtools.api\obj\Release\net5.0\poc.tradingtools.api.AssemblyInfo.cs
+C:\repos\poc-authandauth\src\poc.tradingtools.api\obj\Release\net5.0\poc.tradingtools.api.csproj.CoreCompileInputs.cache
+C:\repos\poc-authandauth\src\poc.tradingtools.api\obj\Release\net5.0\poc.tradingtools.api.MvcApplicationPartsAssemblyInfo.cs
+C:\repos\poc-authandauth\src\poc.tradingtools.api\obj\Release\net5.0\poc.tradingtools.api.MvcApplicationPartsAssemblyInfo.cache
